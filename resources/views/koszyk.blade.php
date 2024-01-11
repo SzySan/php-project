@@ -1,3 +1,9 @@
+
+
+
+
+
+
 <!DOCTYPE html>
 <html lang="{{ str_replace('-','_', app()->getLocale()) }}">
     <head>
@@ -43,14 +49,41 @@
                 <div class="masthead-heading text-uppercase">Koszulki-pl</div>
             </div>
         </header>
+        <section class='koszyk'>
+        <table class="table">
+  <thead>
+    <tr>
+      <th scope="col">Numer Produktu</th>
+      <th scope="col">Nazwa Produktu</th>
+      <th scope="col">Cena</th>
+      <th scope="col">Ilość</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>Mark</td>
+      <td>Otto</td>
+      <td>@mdo</td>
+    </tr>
+    <tr>
+      <th scope="row">2</th>
+      <td>Jacob</td>
+      <td>Thornton</td>
+      <td>@fat</td>
+    </tr>
+    <tr>
+      <th scope="row">3</th>
+      <td>Larry</td>
+      <td>the Bird</td>
+      <td>@twitter</td>
+    </tr>
+  </tbody>
+</table> 
+        </section>
 
-        <div class="col=lg-8"
 
-                
-                    
-        <!-- Services-->
         
-
         
         
         <!-- Footer-->

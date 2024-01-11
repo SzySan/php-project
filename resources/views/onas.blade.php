@@ -29,7 +29,7 @@
                     <ul class="navbar-nav text-uppercase ms-auto py-4 py-lg-0">
                         <li class="nav-item"><a class="nav-link" href="/">Strona Główna</a></li>
                         <li class="nav-item"><a class="nav-link" href="sklepik">Sklep</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#team">Koszyk</a></li>
+                        <li class="nav-item"><a class="nav-link" href="koszyk">Koszyk</a></li>
                         
                     </ul>
                 </div>

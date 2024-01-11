@@ -1,3 +1,7 @@
+
+
+
+
 <!DOCTYPE html>
 <html lang="{{ str_replace('-','_', app()->getLocale()) }}">
     <head>
@@ -29,13 +33,13 @@
                     <ul class="navbar-nav text-uppercase ms-auto py-4 py-lg-0">
                         <li class="nav-item"><a class="nav-link" href="/">Strona Główna</a></li>
                         <li class="nav-item"><a class="nav-link" href="onas">O nas</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#team">Koszyk</a></li>
+                        <li class="nav-item"><a class="nav-link" href="koszyk">Koszyk</a></li>
                         
                     </ul>
                 </div>
             </div>
         </nav>
-        <!-- Masthead-->
+
         <header class="masthead">
             <div class="container">
                 <div class="masthead-subheading">Z Miłości Do Sportu</div>
@@ -48,11 +52,9 @@
                     <h3 class="section-subheading text-muted">Koszulki Piłkarskie</h3>
                 </div>
                     
-        <!-- Services-->
+        
         <section class="sec">
             <div class="produkty">
-
-
                 <div class="card">
                     <div class="img"><img src="assets/img/arsenalretro.jpg" alt=""></div>
                     <div class="desc">Premier League</div>
